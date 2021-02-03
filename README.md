@@ -1,8 +1,8 @@
 # eduskunta_API
 
 ## Parametrit  
-`ìd` Kansanedustajan hetekaID  
-`action` Suoritettava toiminto; joko `get`(haetaan pistemäärä), `minus`(pistemäärä--) tai `plus`(pistemäärä++)
+- `ìd` Kansanedustajan hetekaID  
+- `action` Suoritettava toiminto; joko `get`(haetaan pistemäärä), `minus`(pistemäärä--) tai `plus`(pistemäärä++)
 
 
 #### Pisteiden hakeminen
