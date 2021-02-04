@@ -15,3 +15,7 @@ Palauttaa:
     "score": "4"
 }
 ```
+#### Pisteen antaminen  
+Annetaan Erkki Tuomiojalle (hetekaID 357) yksi piste:  
+`GET users.metropolia.fi/~tuomakuh/eduskunta?id=357&action=plus`  
+Palauttaa:
