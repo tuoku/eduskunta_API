@@ -1,4 +1,5 @@
-# eduskunta_API
+# eduskunta_API  
+Tällä voidaan jakaa kansanedustajien saamia pisteitä meidän sovellusten välillä. Requesteja ei ole tällä hetkellä rajoitettu joten olkaa kiltisti. 
 
 ## Parametrit  
 - `ìd` Kansanedustajan hetekaID  
