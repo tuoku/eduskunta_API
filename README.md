@@ -18,4 +18,11 @@ Palauttaa:
 #### Pisteen antaminen  
 Annetaan Erkki Tuomiojalle (hetekaID 357) yksi piste:  
 `GET users.metropolia.fi/~tuomakuh/eduskunta?id=357&action=plus`  
-Palauttaa:
+Palauttaa:  
+`{"message":"success"}`  
+
+#### Miinuspisteen antaminen  
+Annetaan Katja Hänniselle (hetekaID 1276) yksi miinuspiste:  
+`GET users.metropolia.fi/~tuomakuh/eduskunta?id=1276&action=minus`  
+Palauttaa:  
+`{"message":"success"}`  
